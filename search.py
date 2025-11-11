@@ -7,6 +7,7 @@ import re
 import util_themoviedb
 import searchinc
 import constant
+import fixed_response
 
 
 def _plugin_run():
@@ -51,6 +52,12 @@ def _plugin_run():
 
 def _process(input_obj, lang, media_type, limit, allowguess):
     title = input_obj['title']
+    
+    # Check if title is a URL and fetch data from it
+    if title and (title.startswith('https://') or title.startswith('http://')):
+        result = fixed_response.fetch_from_url(title)
+        return result if result else []
+    
     year = _get_year(input_obj)
 
     season = input_obj['season'] if 'season' in input_obj else 0

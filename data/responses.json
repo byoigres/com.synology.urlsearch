@@ -1,0 +1,56 @@
+{
+    "success": true,
+    "result": [
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "tagline": "Opening 1: \"Again\" by \"Yui\"",
+            "original_available": "2009-08-26",
+            "summary": "\"Again\" is Japanese pop rock singer-songwriter Yui's thirteenth single, and first single after she went on hiatus in November 2008. \"Again\" was released on June 3, 2009, by her label Studioseven Recordings and was released in two formats: CD and CD+DVD. On March 25, 2009, Yui announced on her official website that she was ending her hiatus and returning to the music scene. On her website she also announced that she had worked on a new single, \"Again\". It was later revealed that \"Again\" was going to be used as the first opening theme song for the Fullmetal Alchemist: Brotherhood anime series.",
+            "certificate": "TV-14",
+            "genre": [
+                "Animation",
+                "Action & Adventure",
+                "Sci-Fi & Fantasy",
+                "Comedy"
+            ],
+            "actor": [
+                "Romi Park",
+                "Rie Kugimiya"
+            ],
+            "director": [],
+            "writer": [],
+            "season": 0,
+            "episode": 100,
+            "extra": {
+                "com.synology.urlsearch": {
+                    "tvshow": {
+                        "title": "Fullmetal Alchemist: Brotherhood",
+                        "original_available": "2009-04-05",
+                        "original_title": "",
+                        "summary": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                        "extra": {
+                            "com.synology.urlsearch": {
+                                "poster": [
+                                    "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                                ],
+                                "backdrop": [
+                                    "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                                ]
+                            }
+                        }
+                    },
+                    "poster": [
+                        "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/refs/heads/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCOP.01.%5BBDRip.1080p.X265%5D.png"
+                    ],
+                    "reference": {
+                        "themoviedb_tv": 31911,
+                        "imdb": "tt1355642"
+                    },
+                    "rating": {
+                        "themoviedb_tv": 8.701
+                    }
+                }
+            }
+        }
+    ]
+}
