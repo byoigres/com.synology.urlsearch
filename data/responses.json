@@ -1,56 +1,482 @@
-{
-    "success": true,
-    "result": [
-        {
-            "title": "Fullmetal Alchemist: Brotherhood",
-            "tagline": "Opening 1: \"Again\" by \"Yui\"",
-            "original_available": "2009-08-26",
-            "summary": "\"Again\" is Japanese pop rock singer-songwriter Yui's thirteenth single, and first single after she went on hiatus in November 2008. \"Again\" was released on June 3, 2009, by her label Studioseven Recordings and was released in two formats: CD and CD+DVD. On March 25, 2009, Yui announced on her official website that she was ending her hiatus and returning to the music scene. On her website she also announced that she had worked on a new single, \"Again\". It was later revealed that \"Again\" was going to be used as the first opening theme song for the Fullmetal Alchemist: Brotherhood anime series.",
-            "certificate": "TV-14",
-            "genre": [
-                "Animation",
-                "Action & Adventure",
-                "Sci-Fi & Fantasy",
-                "Comedy"
-            ],
-            "actor": [
-                "Romi Park",
-                "Rie Kugimiya"
-            ],
-            "director": [],
-            "writer": [],
-            "season": 0,
-            "episode": 100,
-            "extra": {
-                "com.synology.urlsearch": {
-                    "tvshow": {
-                        "title": "Fullmetal Alchemist: Brotherhood",
-                        "original_available": "2009-04-05",
-                        "original_title": "",
-                        "summary": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
-                        "extra": {
-                            "com.synology.urlsearch": {
-                                "poster": [
-                                    "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
-                                ],
-                                "backdrop": [
-                                    "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
-                                ]
-                            }
+[
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Opening 1: \"Again\" by \"YUI\"",
+        "original_available": "2009-08-26",
+        "summary": "\"Again\" is Japanese pop rock singer-songwriter Yui's thirteenth single, and first single after she went on hiatus in November 2008. \"Again\" was released on June 3, 2009, by her label Studioseven Recordings and was released in two formats: CD and CD+DVD. On March 25, 2009, Yui announced on her official website that she was ending her hiatus and returning to the music scene. On her website she also announced that she had worked on a new single, \"Again\". It was later revealed that \"Again\" was going to be used as the first opening theme song for the Fullmetal Alchemist: Brotherhood anime series.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Opening"
+        ],
+        "actor": [
+            "YUI"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 101,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
                         }
-                    },
-                    "poster": [
-                        "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/refs/heads/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCOP.01.%5BBDRip.1080p.X265%5D.png"
-                    ],
-                    "reference": {
-                        "themoviedb_tv": 31911,
-                        "imdb": "tt1355642"
-                    },
-                    "rating": {
-                        "themoviedb_tv": 8.701
                     }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCOP.01.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
                 }
             }
         }
-    ]
-}
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Opening 2: \"Hologram\" by NICO \"Touches the Walls\"",
+        "original_available": "2009-08-26",
+        "summary": "Nico Touches the Walls (stylized as NICO Touches the Walls) was a Japanese rock band formed in 2004. Along the career, the band has contributed to anime with their songs, such as “Mashi Mashi” being the ending theme for the 3rd season of Haikyuu!!. \"Broken Youth\", \"Diver\", and \"Niwaka Ame ni Mo Makezu\", featured in Naruto: Shippuden; their hit single \"Hologram\" chosen as opening theme for Fullmetal Alchemist: Brotherhood, as many others.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Opening"
+        ],
+        "actor": [
+            "NICO Touches the Walls"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 102,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCOP.02.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Opening 3: \"Golden Time Lover\" by Sukima Switch\"",
+        "original_available": "2009-08-26",
+        "summary": "Sukima Switch is a Japanese rock/jazz fusion duo consisting of core members Takuya Ōhashi, born May 9, 1978, and Shintarō Tokita, born February 25, 1978, formed in 1999. Their 12th single, \"Golden Time Lover\", is the third opening of the anime series Fullmetal Alchemist: Brotherhood.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Opening"
+        ],
+        "actor": [
+            "Sukima Switch"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 103,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy's laws ripped half of Edward Elric's limbs from his body and left his brother Alphonse's soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher's Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCOP.03.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Opening 4: \"Period\" by CHEMISTRY",
+        "original_available": "2009-08-26",
+        "summary": "Chemistry is a Japanese pop duo formed in 2001, consisting of Yoshikuni Dōchin and Kaname Kawabata. The duo made their debut with the single \"Pieces of a Dream\". Their song \"Period\" served as the fourth opening theme for Fullmetal Alchemist: Brotherhood. Chemistry is known for their powerful harmonies and emotional ballads, and they have won multiple awards including Japan Gold Disc Awards.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Opening"
+        ],
+        "actor": [
+            "CHEMISTRY"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 104,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy's laws ripped half of Edward Elric's limbs from his body and left his brother Alphonse's soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher's Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCOP.04.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Opening 5: \"Rain\" by SID",
+        "original_available": "2009-08-26",
+        "summary": "SID is a Japanese visual kei rock band formed in 2003. The band consists of Mao (vocals), Shinji (guitar), Aki (bass), and Yūya (drums). SID has contributed numerous songs to anime series, including \"Rain\" as the fifth and final opening theme for Fullmetal Alchemist: Brotherhood, as well as \"Uso\" which served as the first ending theme. The band is known for their energetic rock sound and has released multiple albums that topped Japanese music charts.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Opening"
+        ],
+        "actor": [
+            "SID"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 105,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy's laws ripped half of Edward Elric's limbs from his body and left his brother Alphonse's soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher's Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCOP.05.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Ending 1: \"Uso\" by SID",
+        "original_available": "2009-08-26",
+        "summary": "SID is a Japanese visual kei rock band formed in 2003. The band consists of Mao (vocals), Shinji (guitar), Aki (bass), and Yūya (drums). Their song \"Uso\" (meaning \"Lie\") served as the first ending theme for Fullmetal Alchemist: Brotherhood. SID has contributed numerous songs to anime series and is known for their energetic rock sound and emotional ballads. The band has released multiple albums that topped Japanese music charts.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Ending"
+        ],
+        "actor": [
+            "SID"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 106,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy's laws ripped half of Edward Elric's limbs from his body and left his brother Alphonse's soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher's Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCED.01.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Ending 2: \"LET IT OUT\" by Miho Fukuhara",
+        "original_available": "2009-08-26",
+        "summary": "Miho Fukuhara is a Japanese R&B and pop singer born on February 13, 1987. She made her major debut in 2006 and is known for her powerful vocals and emotional delivery. \"LET IT OUT\" served as the second ending theme for Fullmetal Alchemist: Brotherhood. Fukuhara has released multiple albums and singles, and her music has been featured in various anime series and Japanese dramas.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Ending"
+        ],
+        "actor": [
+            "Miho Fukuhara"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 107,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy's laws ripped half of Edward Elric's limbs from his body and left his brother Alphonse's soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher's Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCED.02.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Ending 3: \"Tsunaida te\" by Lil'B",
+        "original_available": "2009-08-26",
+        "summary": "Lil'B is a Japanese hip-hop group formed in 2002, consisting of members Ryohei and May J. (who later left the group). The group is known for blending hip-hop with R&B and pop elements. Their song \"Tsunaida te\" (meaning \"Joined Hands\") served as the third ending theme for Fullmetal Alchemist: Brotherhood. Lil'B has released several albums and contributed songs to various anime series.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Ending"
+        ],
+        "actor": [
+            "Lil'B"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 108,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy's laws ripped half of Edward Elric's limbs from his body and left his brother Alphonse's soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher's Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCED.03.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Ending 4: \"Shunkan Sentimental\" by Scandal",
+        "original_available": "2009-08-26",
+        "summary": "Scandal is an all-female Japanese rock band formed in 2006, consisting of Haruna Ono (vocals, guitar), Mami Sasazaki (guitar, vocals), Tomomi Ogawa (bass, vocals), and Rina Suzuki (drums, vocals). The band gained popularity through their energetic performances and catchy rock songs. \"Shunkan Sentimental\" (meaning \"Instant Sentimental\") served as the fourth ending theme for Fullmetal Alchemist: Brotherhood and became one of their most popular songs. Scandal has released numerous albums and performed at major music festivals worldwide.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Ending"
+        ],
+        "actor": [
+            "Scandal"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 109,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy's laws ripped half of Edward Elric's limbs from his body and left his brother Alphonse's soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher's Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCED.04.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "tagline": "Ending 5: \"RAY OF LIGHT\" by Shoko Nakagawa",
+        "original_available": "2009-08-26",
+        "summary": "Shoko Nakagawa, also known as \"Shokotan\", is a Japanese singer, voice actress, and television personality born on May 5, 1985. She is known for her love of anime, manga, and otaku culture. \"RAY OF LIGHT\" served as the fifth and final ending theme for Fullmetal Alchemist: Brotherhood. Nakagawa has released numerous singles and albums, voiced characters in various anime series, and has become a prominent figure in Japanese pop culture.",
+        "certificate": "TV-14",
+        "genre": [
+            "Animation",
+            "Anime Ending"
+        ],
+        "actor": [
+            "Shoko Nakagawa"
+        ],
+        "director": [],
+        "writer": [],
+        "season": 0,
+        "episode": 110,
+        "extra": {
+            "com.synology.urlsearch": {
+                "tvshow": {
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "original_available": "2009-04-05",
+                    "original_title": "",
+                    "summary": "Disregard for alchemy's laws ripped half of Edward Elric's limbs from his body and left his brother Alphonse's soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher's Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+                    "extra": {
+                        "com.synology.urlsearch": {
+                            "poster": [
+                                "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+                            ],
+                            "backdrop": [
+                                "https://image.tmdb.org/t/p/original/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg"
+                            ]
+                        }
+                    }
+                },
+                "poster": [
+                    "https://raw.githubusercontent.com/byoigres/com.synology.urlsearch/fullmetal_alchemist_brotherhood/images/%5BNRN%5DFullmetal.Alchemist.Brotherhood.-.NCED.05.%5BBDRip.1080p.X265%5D.png"
+                ],
+                "reference": {
+                    "themoviedb_tv": 31911,
+                    "imdb": "tt1355642"
+                },
+                "rating": {
+                    "themoviedb_tv": 8.701
+                }
+            }
+        }
+    }
+]
